@@ -1,3 +1,0 @@
-name: Docker Series Builds
-
-on: [push]
